@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=FF9EAA&text=Hello,%20I%20am%20Maftuna%20M.&section=header&reversal=false&textBg=false&fontColor=FFDCCC&fontAlign=50&fontSize=60&animation=twinkling&strokeWidth=3&stroke=000000&descAlign=31&desc=Software%20Developer%20|%20Data%20Scientist&descAlignY=82)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFDCCC&center=true&random=false&width=870&height=100&lines=C%23+%7C+Python+%7C+C%2B%2B+%7C+Dart+%7C+Data+Science)](https://git.io/typing-svg)
 
-## 👨‍💻 I code with
+## 👨‍💻 I code with 
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/-C%23-1C1678?style=for-the-badge&logo=C%23&logoColor=white" />
